@@ -1,0 +1,85 @@
+{
+  "date": "2026-10-27",
+  "title": "Weekly Literature Podcast - 2026-10-27",
+  "description": "# Weekly Literature Digest - 27 October 2026\n\nThis week's digest highlights a significant study directly investigating the RNA-binding protein TRIM71. The paper explores TRIM71's role in promoting cellular reprogramming and regeneration in the auditory system, providing crucial insights into its mechanistic actions and interactions with key transcription factors, utilizing both in vivo models and organoid systems.\n\n## The RNA-binding protein TRIM71 Promotes Supporting Cell Reprogramming and Hair Cell Regeneration by Activating Sall4.\n- **Core Takeaway**\n  The RNA-binding protein TRIM71 promotes spontaneous hair cell regeneration in neonatal mice by reprogramming cochlear supporting cells into progenitor-like cells via SALL4 activation, a process further enhanced by follistatin.\n\n- **Key Experimental Models**\n  - Doxycycline-inducible TRIM71 transgenic mouse model (neonatal mice)\n  - Cochlear organoids\n  - Cochlear explants\n\n- **Primary Data Highlights**\n  - Overexpression of TRIM71 promotes spontaneous cochlear hair cell (HC) regeneration in neonatal mice.\n  - TRIM71 reprograms supporting cells (SCs) into progenitor-like cells in cochlear organoids.\n  - Coactivation of follistatin (FST) enhances TRIM71-induced SC reprogramming.\n  - FST augments TRIM71-induced increases in chromatin accessibility at progenitor and HC-specific gene loci.\n  - FST enhances TRIM71-induced reactivation of Sall4.\n  - The early otic transcription factor SALL4 is required for TRIM71-induced HC formation.\n  - SALL4 overexpression inhibits HC formation by maintaining reprogrammed SCs in an undifferentiated, proliferative state.\n  - TRIM71 induces an otic progenitor-like transcriptional program in SCs through Sall4 activation, while concurrently initiating mesenchymal gene expression.\n  - Follistatin resolves this conflicting transcriptional state by suppressing mesenchymal conversion genes and increasing chromatin accessibility at progenitor- and HC-specific gene loci.\n\n- **Relevance to TRIM71/Organoids**\n  This paper directly investigates TRIM71, a core protein of interest, demonstrating its role as an activator of regeneration and a key regulator of cellular plasticity. It utilizes cochlear organoids as a crucial experimental model to study TRIM71's function in supporting cell reprogramming. The findings provide mechanistic insights into TRIM71's role in cellular programming and reprogramming, specifically in a regenerative context, and identify SALL4 as a critical downstream effector, linking TRIM71 to transcriptional regulation and developmental pathways.\n\n- **Direct Links**\n  [PubMed](https://pubmed.ncbi.nlm.nih.gov/42926605/)\n  [DOI](https://doi.org/10.64898/2026.10.05.756655)\nRelevance: 10/10",
+  "papers": [
+    {
+      "pmid": "42926605",
+      "title": "The RNA-binding protein TRIM71 Promotes Supporting Cell Reprogramming and Hair Cell Regeneration by Activating Sall4.",
+      "journal": "bioRxiv : the preprint server for biology",
+      "score": 10,
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42926605/",
+      "doiUrl": "https://doi.org/10.64898/2026.10.05.756655"
+    }
+  ],
+  "voices": {
+    "Alex": "en-US-GuyNeural",
+    "Sam": "en-US-AriaNeural"
+  },
+  "turns": [
+    {
+      "speaker": "Alex",
+      "text": "Hey everyone, and welcome back to the RNA and Organoid Report! I'm Alex, your molecular biologist focusing on all things RNA."
+    },
+    {
+      "speaker": "Sam",
+      "text": "And I'm Sam, your organoid and translational science enthusiast. It's great to be back, Alex, and we've got a really compelling paper to dive into today."
+    },
+    {
+      "speaker": "Alex",
+      "text": "Absolutely, Sam. This week, we're really honing in on a fascinating study that directly investigates the RNA-binding protein TRIM71, a protein near and dear to my heart."
+    },
+    {
+      "speaker": "Sam",
+      "text": "Yes, and it's particularly exciting because it connects TRIM71 to cellular reprogramming and regeneration in the auditory system, using both in vivo models and organoids, which is right up my alley. The paper is titled 'The RNA-binding protein TRIM71 Promotes Supporting Cell Reprogramming and Hair Cell Regeneration by Activating Sall4'."
+    },
+    {
+      "speaker": "Alex",
+      "text": "Exactly. This study really unpacks TRIM71's role in a regenerative context. For those unfamiliar, TRIM71, also known as LIN41, is a really interesting RNA-binding protein that's often associated with developmental timing, stem cell maintenance, and cellular plasticity, typically by regulating mRNA stability or translation. So seeing it drive such a profound reprogramming event isn't entirely surprising, but the detail here is fantastic."
+    },
+    {
+      "speaker": "Sam",
+      "text": "And the core takeaway is quite striking. They show that TRIM71 promotes spontaneous cochlear hair cell, or HC, regeneration in neonatal mice. This is huge for potential therapeutic avenues in hearing loss. It does this by reprogramming cochlear supporting cells, or SCs, into progenitor-like cells. Crucially, they identify the early otic transcription factor SALL4 as a key player in this process, with follistatin further enhancing it."
+    },
+    {
+      "speaker": "Sam",
+      "text": "They didn't just stop at in vivo models using a doxycycline-inducible TRIM71 transgenic mouse model. They also utilized cochlear organoids and cochlear explants to really dissect the mechanism. In these organoid systems, they observed that overexpression of TRIM71 could reprogram supporting cells directly into these progenitor-like cells. This really highlights the power of organoids to model complex cellular interactions and fate decisions in a controlled environment."
+    },
+    {
+      "speaker": "Alex",
+      "text": "What I found particularly intriguing was the link to SALL4. They show that SALL4 is actually required for TRIM71-induced hair cell formation. So, TRIM71 isn't just generally promoting 'stemness'; it's funneling cells down a specific progenitor pathway, at least partly through SALL4 activation. As an RNA biologist, I'm always wondering if TRIM71 is directly binding to SALL4 mRNA to stabilize it or promote its translation, or if it's regulating other factors that then activate SALL4 transcription."
+    },
+    {
+      "speaker": "Sam",
+      "text": "That's a great point, Alex. And it gets even more nuanced because they found that while SALL4 is necessary, too much SALL4 can actually inhibit hair cell formation. Specifically, SALL4 overexpression inhibited HC formation by maintaining the reprogrammed supporting cells in an undifferentiated, proliferative state, preventing them from fully committing to the hair cell lineage. It's a delicate balance, which is often the case with developmental transcription factors."
+    },
+    {
+      "speaker": "Alex",
+      "text": "Right, so TRIM71 induces an otic progenitor-like transcriptional program in supporting cells through SALL4 activation. But interestingly, it also concurrently initiates mesenchymal gene expression. It's like TRIM71 is throwing a lot of different switches at once, creating a somewhat conflicting transcriptional state."
+    },
+    {
+      "speaker": "Sam",
+      "text": "And that's where follistatin comes in as a crucial modulator. They found that coactivation of follistatin, or FST, significantly enhances TRIM71-induced supporting cell reprogramming. Mechanistically, FST resolves this conflicting transcriptional state by suppressing those unwanted mesenchymal conversion genes. What's more, FST augments TRIM71-induced increases in chromatin accessibility at progenitor and HC-specific gene loci, essentially priming the cells for the correct differentiation pathway."
+    },
+    {
+      "speaker": "Alex",
+      "text": "So, it's not just TRIM71 acting alone. It seems TRIM71 kickstarts the process, maybe creating a permissive state and initiating a broad transcriptional shift, and then follistatin acts as a critical 'refiner' or 'director,' ensuring the cells follow the correct regenerative path by tweaking the chromatin landscape and suppressing off-target gene expression. It's a beautiful example of how multiple factors collaborate in cell fate decisions."
+    },
+    {
+      "speaker": "Sam",
+      "text": "Absolutely. For my work in organoids and kidney repair, understanding how factors like TRIM71 and SALL4 orchestrate cell plasticity and regeneration is paramount. This paper provides fantastic mechanistic insights into TRIM71's role in cellular programming and reprogramming, specifically in a regenerative context, and identifies SALL4 as a critical downstream effector. It gives us a blueprint for how we might think about driving regeneration in other organ systems, and how to fine-tune those processes to get the desired cell types."
+    },
+    {
+      "speaker": "Alex",
+      "text": "And from an RNA biology perspective, it really underscores the power of RNA-binding proteins like TRIM71 not just as passive regulators, but as active drivers of profound cellular identity changes. It opens up so many questions about its precise molecular targets beyond SALL4 and how it integrates with chromatin remodeling factors. A truly impactful study."
+    },
+    {
+      "speaker": "Sam",
+      "text": "Indeed. Well, that's all the time we have for this week's digest."
+    },
+    {
+      "speaker": "Alex",
+      "text": "Thanks for tuning in, and we'll catch you next time on the RNA and Organoid Report!"
+    }
+  ]
+}
